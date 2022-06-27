@@ -29,3 +29,4 @@ npm run build
 ```
 # ivote_EFREI_MasterCamp2022
 # ivote_EFREI_MasterCamp2022
+# myVote
